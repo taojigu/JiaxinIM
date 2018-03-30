@@ -1,0 +1,107 @@
+/*
+ JXUIKit.strings
+ JXUIKit
+ */
+
+"ok" = "確定";
+"cancel" = "取消";
+"yes" = "是";
+"no" = "否";
+"done" = "完成";
+"exit" = "退出";
+"loading" = "加載中...";
+
+"delete" = "刪除信息";
+"copy" = "復制信息";
+"multi delete" = "刪除多項信息";
+
+"agent busy" = "坐席忙";
+"agent message" = "坐席消息";
+"agent ready tips" = "坐席 %@ 正在為您服務";
+"album" = "相冊";
+"already in workgroup tips" = "已經在技能組，無法切換";
+"app could not acess album" = "APP 無法訪問相冊";
+"app could not acess camera" = "APP 無法訪問攝像頭";
+"app could not acess location" = "APP 無法訪問地理位置";
+"call" = "呼叫";
+"cancel waiting" = "取消等待";
+"check message" = "查看留言";
+"delivered" = "已送達";
+"emoji" = "[表情]";
+"end session question" = "是否結束會話";
+"end session title" = "結束會話";
+"evaluate" = "評價";
+"evaluation" = "滿意度評價";
+"fail to access location" = "獲取位置失敗";
+"fail to download" =  "下載失敗";
+"fail to get workgroup tips" = "獲取技能組失敗";
+"file size is too big" = "文件大小超過限制";
+"hold to film" = "按住錄影";
+"image message" = "圖片消息";
+"leave message" = "留言";
+"message center" = "消息中心";
+"move up to cancel" = "上滑取消";
+"no agent online tips" = "對不起，沒有坐席在線";
+"no workgroup tips" = "沒有技能組";
+"open link" = "打開鏈接";
+"photo" = "拍照";
+"please select" = "請選擇";
+"quick questions" = "快捷提問";
+"read" = "已讀";
+"release to cancel" = "松開取消";
+"request failed" = "請求失敗";
+"resend message title" = "重發消息";
+"robot name" = "機器人";
+"robot title" = "佳信機器人客服";
+"send link" = "發送鏈接";
+"send" = "發送";
+"sent" = "已發送";
+"session ended tips" = "會話結束";
+"switch agent question" = "是否轉至人工客服？";
+"switch agent title" = "轉人工客服";
+"switch to robot" = "機器人客服";
+"system name" = "系統消息";
+"tips title" = "提示";
+"unread message tips" = "未讀消息";
+"video message" = "視頻消息";
+"video" = "影片";
+"voice message" = "語音消息";
+"waiting position tips" = "等待坐席應答，點擊取消";
+"abandon access tips" = "如需放棄接入，請點擊"
+"workgroup title" = "咨詢類型";
+
+"success" = "操作成功";
+"unkonw error" = "未知錯誤";
+"network error" = "網絡錯誤";
+"network timeout" = "網絡超時";
+"sdk internal error" = "SDK內部錯誤";
+"login in other device" = "在其他設備登錄";
+"server internal error" = "服務端內部錯誤";
+"password changed" = "密碼已修改";
+"user removed" = "用戶已被移除";
+"username existed" = "用戶名已存在";
+"username error" = "用戶名錯誤";
+"username length error" = "用戶名太長";
+"param error" = "參數錯誤";
+"sdk not registered" = "SDK未初始化";
+"sdk register failed" = "SDK初始化失敗";
+"appkey error" = "APPKEY錯誤";
+
+"no service" = "暫無客服人員在線";
+"workgroup not exist" = "技能組不存在";
+"already evaluated" = "不能重複評價";
+"invalid access" = "操作失敗";
+"unknow error" = "未知錯誤";
+
+"press to talk" = "按下說話";
+"release to send" = "鬆開發送";
+"please input content" = "輸入內容";
+"system end session" = "您好，由於長時間沒有接收到您的消息，系統自動結束會話。如果還有需要，歡迎隨時聯系我們。";
+"evaluation message" = "尊敬的用戶，很榮幸為您服務，誠邀您對本次服務作出評價，我們將持續改善服務質量。";
+"join queue forbidden" = "當前排隊人數較多，請稍後諮詢";
+
+"非常满意" = "非常滿意";
+"满意" = "滿意";
+"一般" = "一般";
+"不满意" = "不滿意";
+"非常不满意" = "非常不滿意";

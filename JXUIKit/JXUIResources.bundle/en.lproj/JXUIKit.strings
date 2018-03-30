@@ -1,0 +1,107 @@
+/*
+ JXUIKit.strings
+ JXUIKit
+ */
+
+"ok" = "OK";
+"cancel" = "Cancel";
+"yes" = "Yes";
+"no" = "No";
+"done" = "Done";
+"exit" = "Exit";
+"loading" = "Loading...";
+
+"delete" = "Delete the message";
+"copy" = "Copy the message";
+"multi delete" = "Batch delete";
+
+"agent busy" = "Agent busy";
+"agent message" = "Agent Message";
+"agent ready tips" = "Agent %@ is serving you";
+"album" = "Album";
+"already in workgroup tips" = "Already in workgroup service";
+"app could not acess album" = "APP could not access album";
+"app could not acess camera" = "APP could not access camera";
+"app could not acess location" = "APP could not access location";
+"call" = "Call";
+"cancel waiting" = "Cancel waiting";
+"check message" = "Check message";
+"delivered" = "delivered";
+"emoji" = "[emoji]";
+"end session question" = "Confirm to end current session.";
+"end session title" = "End session";
+"evaluate" = "Evaluate";
+"evaluation" = "Evaluation";
+"fail to access location" = "Fail to access location";
+"fail to download" =  "Fail to download";
+"fail to get workgroup tips" = "Fail to get workgroups";
+"file size is too big" = "File size is over limit";
+"hold to film" = "Hold to film";
+"image message" = "Image Message";
+"leave message" = "Leave a message";
+"message center" = "Message center";
+"move up to cancel" = "Move up to cancel";
+"no agent online tips" = "Sorry, no agent online";
+"no workgroup tips" = "No workgroups";
+"open link" = "Open link";
+"photo" = "Photo";
+"please select" = "Select one";
+"quick questions" = "Quick questions";
+"read" = "read";
+"release to cancel" = "Release to cancel";
+"request failed" = "Request failed";
+"resend message title" = "Resend message";
+"robot name" = "Robot";
+"robot title" = "Robot agent";
+"send link" = "Send link";
+"send" = "Send";
+"sent" = "sent";
+"session ended tips" = "Session ended";
+"switch agent question" = "Confirm to switch agent.";
+"switch agent title" = "Switch to agent";
+"switch to robot" = "Switch to robot";
+"system name" = "System";
+"tips title" = "Tips";
+"unread message tips" = "Unread message";
+"video message" = "Video Message";
+"video" = "Video";
+"voice message" = "Voice Message";
+"waiting position tips" = "Wating for agent, click to cancel.";
+"abandon access tips" = "If you want to abandon access, please click";
+"workgroup title" = "Service type";
+
+"success" = "Success";
+"unkonw error" = "Unknow error";
+"network error" = "Network error";
+"network timeout" = "Network timeout";
+"sdk internal error" = "SDK internal error";
+"login in other device" = "Login in other device";
+"server internal error" = "Server internal error";
+"password changed" = "Password was changed";
+"user removed" = "User was removed";
+"username existed" = "Username was existed";
+"username error" = "Username is invalid";
+"username length error" = "Username is too long";
+"param error" = "Wrong parameter";
+"sdk not registered" = "SDK init error";
+"sdk register failed" = "SDK init failed";
+"appkey error" = "APPKEY error";
+
+"no service" = "Not in service";
+"workgroup not exist" = "Error workgroup";
+"already evaluated" = "Aleady evaluated";
+"invalid access" = "Invalid access";
+"unknow error" = "unknow error";
+
+"press to talk" = "Press to talk";
+"release to send" = "Release to send";
+"please input content" = "please input content";
+"system end session" = "No message has been received for a long time, the system automatically ends the session. If you still need help, please contact us again.";
+"evaluation message" = "Dear users, we are honored to serve you and invite you to evaluate this service and we will continue to improve our service quality.";
+"join queue forbidden" = "Multiple visitors are waiting in the queue now, please contact us later.";
+
+"非常满意" = "Highly satisfied";
+"满意" = "Satisfied";
+"一般" = "Acceptable";
+"不满意" = "Dissatisfied";
+"非常不满意" = "Quite Dissatisfied";

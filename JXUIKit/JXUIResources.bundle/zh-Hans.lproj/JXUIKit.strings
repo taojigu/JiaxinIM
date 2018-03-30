@@ -1,0 +1,107 @@
+/*
+ JXUIKit.strings
+ JXUIKit
+ */
+
+"ok" = "确定";
+"cancel" = "取消";
+"yes" = "是";
+"no" = "否";
+"done" = "完成";
+"exit" = "退出";
+"loading" = "加载中...";
+
+"delete" = "删除信息";
+"copy" = "复制信息";
+"multi delete" = "删除多项信息";
+
+"agent busy" = "坐席忙";
+"agent message" = "坐席消息";
+"agent ready tips" = "坐席 %@ 正在为您服务";
+"album" = "相册";
+"already in workgroup tips" = "已经在技能组，无法切换";
+"app could not acess album" = "APP 无法访问相册";
+"app could not acess camera" = "APP 无法访问摄像头";
+"app could not acess location" = "APP 无法访问地理位置";
+"call" = "呼叫";
+"cancel waiting" = "取消等待";
+"check message" = "查看留言";
+"delivered" = "已送达";
+"emoji" = "[表情]";
+"end session question" = "是否结束会话";
+"end session title" = "结束会话";
+"evaluate" = "评价";
+"evaluation" = "满意度评价";
+"fail to access location" = "获取位置失败";
+"fail to download" =  "下载失败";
+"fail to get workgroup tips" = "获取技能组失败";
+"file size is too big" = "文件大小超过限制";
+"hold to film" = "按住录影";
+"image message" = "图片消息";
+"leave message" = "留言";
+"message center" = "消息中心";
+"move up to cancel" = "上滑取消";
+"no agent online tips" = "对不起，没有坐席在线";
+"no workgroup tips" = "没有技能组";
+"open link" = "打开链接";
+"photo" = "拍照";
+"please select" = "请选择";
+"quick questions" = "快捷提问";
+"read" = "已读";
+"release to cancel" = "松开取消";
+"request failed" = "请求失败";
+"resend message title" = "重发消息";
+"robot name" = "机器人";
+"robot title" = "佳信机器人客服";
+"send link" = "发送链接";
+"send" = "发送";
+"sent" = "已发送";
+"session ended tips" = "会话结束";
+"switch agent question" = "是否转至人工客服？";
+"switch agent title" = "转人工客服";
+"switch to robot" = "机器人客服";
+"system name" = "系统消息";
+"tips title" = "提示";
+"unread message tips" = "未读消息";
+"video message" = "视频消息";
+"video" = "视频";
+"voice message" = "语音消息";
+"waiting position tips" = "客服繁忙，请稍候，当前等待位置";
+"abandon access tips" = "如需放弃接入，请点击";
+"workgroup title" = "咨询类型";
+
+"success" = "操作成功";
+"unkonw error" = "未知错误";
+"network error" = "网络错误";
+"network timeout" = "网络超时";
+"sdk internal error" = "SDK内部错误";
+"login in other device" = "在其他设备登录";
+"server internal error" = "服务端内部错误";
+"password changed" = "密码已修改";
+"user removed" = "用户已被移除";
+"username existed" = "用户名已存在";
+"username error" = "用户名错误";
+"username length error" = "用户名太长";
+"param error" = "参数错误";
+"sdk not registered" = "SDK未初始化";
+"sdk register failed" = "SDK初始化失败";
+"appkey error" = "APPKEY错误";
+
+"no service" = "暂无客服人员在线";
+"workgroup not exist" = "技能组不存在";
+"already evaluated" = "不能重复评价";
+"invalid access" = "操作失败";
+"unknow error" = "未知错误";
+
+"press to talk" = "按下说话";
+"release to send" = "松开发送";
+"please input content" = "输入内容";
+"system end session" = "您好，由于长时间没有接收到您的消息，系统自动结束会话。如果还有需要，欢迎随时联系我们。";
+"evaluation message" = "尊敬的用户，很荣幸为您服务，诚邀您对本次服务作出评价，我们将持续改善服务质量。";
+"join queue forbidden" = "当前排队人数较多，请稍后咨询。";
+
+"非常满意" = "非常满意";
+"满意" = "满意";
+"一般" = "一般";
+"不满意" = "不满意";
+"非常不满意" = "非常不满意";
